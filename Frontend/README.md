@@ -1,4 +1,4 @@
-# 🥔 Kisan Mitra - Potato Disease Detection
+# 🥔 Potato Disease Detection
 
 A React.js application with an Indian farming theme for testing potato disease detection using machine learning. The app allows farmers to upload potato leaf images and get instant disease predictions.
 
@@ -15,9 +15,9 @@ A React.js application with an Indian farming theme for testing potato disease d
 ## 🔬 Disease Detection
 
 The app can detect three conditions:
-- ✅ **Healthy** (स्वस्थ)
-- ⚠️ **Early Blight** (शुरुआती अंगमारी)
-- 🚨 **Late Blight** (देर से होने वाली अंगमारी)
+- ✅ **Healthy** 
+- ⚠️ **Early Blight** 
+- 🚨 **Late Blight** 
 
 ## 🛠️ Tech Stack
 
